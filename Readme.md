@@ -1,7 +1,7 @@
 # Личный проект «Седона» 
 
 * Студент: [Илья Петров](https://up.htmlacademy.ru/adaptive/24/user/1497659).
-* Наставник: [Александр Оксанич](https://htmlacademy.ru/profile/oksanych).
+* Наставник: [Анна Рус](https://htmlacademy.ru/profile/vanillawulf).
 
 ---
 
